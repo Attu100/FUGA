@@ -22,7 +22,7 @@ export default function PreLoader() {
           />
 
           {/* ✅ Activity Indicator */}
-          <ActivityIndicator size="large" color="blue" style={{ marginTop: 10 }} />
+          
         </View>
       </View>
     </Modal>
